@@ -1,6 +1,6 @@
 # Prodigy InfoTech Data Science Internship Task 1:
 <br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/ds1.png"   >
+<img src="(https://github.com/rutujaparab20/PRODIGY_DS_1./blob/main/ds_task_1.png)"   >
 
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy InfoTech.
 In this task, I conducted Exploratory Data Analysis (EDA) on a population dataset, with a focus on creating visualizations that illustrate the distribution of both categorical and continuous variables. The goal was to uncover meaningful patterns and trends within the data through effective data preprocessing and visualization techniques.
