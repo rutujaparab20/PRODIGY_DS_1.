@@ -9,7 +9,7 @@ In this task, I conducted Exploratory Data Analysis (EDA) on a population datase
 
 ## Dataset
 
-The dataset used for this task is <a href="(https://github.com/rutujaparab20/PRODIGY_DS_1./blob/main/worldpopulationdata.csv)">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
+The dataset used for this task is <a href="https://github.com/rutujaparab20/PRODIGY_DS_1./blob/main/worldpopulationdata.csv">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
 
 ## Tools and Libraries used
 - Jupyter notebook
