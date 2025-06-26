@@ -28,7 +28,11 @@ During the EDA process, I performed the following steps:
 
 ## Conclusion
 
-In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
+Through this task, I gained hands-on experience with real-world data by performing Exploratory Data Analysis (EDA) on global population trends. The process involved data cleaning, understanding the dataset's structure, and visualizing patterns to derive meaningful insights.
+
+The visualizations effectively highlighted population changes across different years and countries, offering valuable perspectives on global growth dynamics. This task not only enhanced my data analysis and visualization skills but also laid a strong foundation for future data science and machine learning projects.
+
+
 
 Thank you for reviewing my submission!
 
